@@ -23,7 +23,7 @@ void setup()
            if(command == "1"){
               #define PAYLOAD "You have just been sheeped by the PownerSheep!!!"
               delay(2500);
-              taartMail(PAYLOAD);
+              SheepMail(PAYLOAD);
            }
           
     command = ""; // No repeats
