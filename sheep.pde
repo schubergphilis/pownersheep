@@ -2,8 +2,8 @@
 
 SoftwareSerial mySerial(2, 0); // RX, TX
 String command = ""; // Stores response of bluetooth device
-String sheep = "";                   // which simply allows \n between each
-                                     // response.
+                     // which simply allows \n between each
+                     // response.
 void setup() 
 { 
    // Open serial communications and wait for port to open:
