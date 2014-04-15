@@ -1,7 +1,8 @@
 PownerSheep
 ===========
 
-Teensy 2.0 + Bluetooth == Sheeping 2.0
+Teensy 2.0 + Bluetooth == Sheeping 2.0<br>
+Security Awareness tool for Security Specialists<br>
 
 <h1>Requirements</h1>
 <br>
@@ -18,5 +19,8 @@ Print the sheep sheep_body.UP3 and sheep_parts.UP3<br>
 
 Modified Sheep based on:<br>
 http://www.thingiverse.com/thing:198236<br>
+
+Check the irongeek site for the PHUKD library, can be found here:<br>
+http://www.irongeek.com/downloads/phukdlib0.4.zip
 
 ===========
