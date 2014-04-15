@@ -3,26 +3,20 @@ PownerSheep
 
 Teensy 2.0 + Bluetooth == Sheeping 2.0
 
-===========
+<h1>Requirements</h1>
+<br>
+Teensy 2.0<br>
+Bluetooth adapter (JY-MCU)<br>
+UP 3D printer<br>
+Arduino / Teensy IDE<br>
 
-Requirements
+<h1>How To</h1>
 
-Teensy 2.0
-Bluetooth adapter (JY-MCU)
-UP 3D printer
-Arduino / Teensy IDE
+Connect the Teensy + bluetooth as shown in sheep-boards.png and sheep-schema.png<br>
+Load the sheep.pde in the Arduino / Teensy IDE and upload the code<br>
+Print the sheep sheep_body.UP3 and sheep_parts.UP3<br>
 
-===========
-
-How To
-
-Connect the Teensy + bluetooth as shown in sheep-boards.png and sheep-schema.png
-
-Load the sheep.pde in the Arduino / Teensy IDE and upload the code
-
-Print the sheep sheep_body.UP3 and sheep_parts.UP3
-
-Modified Sheep based on:
-http://www.thingiverse.com/thing:198236
+Modified Sheep based on:<br>
+http://www.thingiverse.com/thing:198236<br>
 
 ===========
