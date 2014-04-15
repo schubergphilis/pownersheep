@@ -3,9 +3,9 @@ PownerSheep
 
 Teensy 2.0 + Bluetooth == Sheeping 2.0<br>
 Security Awareness tool for Security Specialists<br>
-
+Demo brute-force function:<br>
+https://www.youtube.com/watch?v=RdV9Hxiv7P4<br>
 <h1>Requirements</h1>
-<br>
 Teensy 2.0<br>
 Bluetooth adapter (JY-MCU)<br>
 UP 3D printer<br>
