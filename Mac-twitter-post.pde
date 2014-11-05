@@ -21,7 +21,7 @@ void loop()
   delay(30000);
 }
    
-//Send E-mail Mac Outlook
+//Send twitter post Mac 
 void sheepTwitterMac(char *message){
   
   //search for outlook
@@ -57,8 +57,7 @@ void sheepTwitterMac(char *message){
   Keyboard.print(message);
   delay(1500);
   Keyboard.send_now();
-  delay(1500);
-  //sent the mail plz
+  //sent the twitter post plz
   Keyboard.set_modifier(MODIFIERKEY_GUI);
   Keyboard.set_key1(KEY_ENTER);
   Keyboard.send_now();
